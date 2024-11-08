@@ -1,7 +1,8 @@
 # Wheel of Fortune & Mastermind With Inheritance Project
 ## Project- 4
 
-##Overview
+#Overview
+
 -Introduces a structured hierarchy to support multiple game types.
 -Organized into two main sections:
 Wheel of Fortune
